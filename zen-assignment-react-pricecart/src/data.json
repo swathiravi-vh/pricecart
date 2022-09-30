@@ -1,0 +1,47 @@
+[
+  {
+    "userType": "free",
+    "price": 0,
+    "featureList": [
+      "Single User",
+      "5GB Storage",
+      "Unlimited Public Projects",
+      "Community Access",
+      "Unlimited Private Projects",
+      "Dedicated Phone Support",
+      "Free Subdomain",
+      "Monthly Status Reports"
+    ],
+    "muted": [4, 5, 6, 7]
+  },
+  {
+    "userType": "plus",
+    "price": 9,
+    "featureList": [
+      "5 Users",
+      "50GB Storage",
+      "Unlimited Public Projects",
+      "Community Access",
+      "Unlimited Private Projects",
+      "Dedicated Phone Support",
+      "Free Subdomain",
+      "Monthly Status Reports"
+    ],
+    "muted": [7]
+  },
+  {
+    "userType": "pro",
+    "price": 49,
+    "featureList": [
+      "Unlimited Users",
+      "150GB Storage",
+      "Unlimited Public Projects",
+      "Community Access",
+      "Unlimited Private Projects",
+      "Dedicated Phone Support",
+      "Free Subdomain",
+      "Monthly Status Reports"
+    ],
+    "muted": []
+  }
+]
